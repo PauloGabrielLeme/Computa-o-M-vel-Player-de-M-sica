@@ -18,14 +18,14 @@ acesso à duas telas, a com todos os arquivos mp3 do sistema, e outra que possui
 sistema que possuem arquivos mp3, onde o usuário pode acessar para ve os arquivos que são exclusivamente
 daquela pasta.
 
-# Telas:
+## Telas:
 
 Login e Cadastro . Para Acessar as músicas é necessário fazer uma conta local no aplicativo 
 Playlists . Tela que lista todas as pastas do seu dispositivo que possuem um arquivo mp3
 Músicas . Tela que lista todos os arquivos mp3 do seu dispositivo
 Play . Tela que após o usuário selecionar uma música permite que ele comece ou pause ela.
 
-# Prints:
+## Prints:
 
 ![Tela de Login](Login.jpg)
 
@@ -45,7 +45,7 @@ A idéia de fazer um aplicativo de música veio do fato de a maioria dos aplicat
 Play para tocar arquivos mp3 terem anúncios excessivos e funcionalidades as quais (pessoalmente) 
 acho desnecessárias.
 
-# Dificuldades:
+## Dificuldades:
 
 A maior dificuldade no desenvolvimento foi tentar implementar uma barra com o tempo da música para controle,
 muito tempo foi gasto tentando implementar essas funcionalidade, e depois de feita uma pesquisa, houve a descoberta
