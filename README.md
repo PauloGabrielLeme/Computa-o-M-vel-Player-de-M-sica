@@ -18,7 +18,17 @@ Play . Tela que após o usuário selecionar uma música permite que ele comece o
 
 # Prints:
 
-![Projeto Montado](Login.jpg)
+![Tela de Login](Login.jpg)
+
+![Tela de Cadastro](Cadastro.jpg)
+
+![Tela de Albuns](Albuns_Playlist.jpg)
+
+![Tela de Músicas](Músicas.jpg)
+
+![Tela de Dentro de Uma Pasta](Pasta.jpg)
+
+![Tela de Reprodução](Reprodução.jpg)
 
 ## Objetivo/Porque Um Aplicativo de Música?
 
