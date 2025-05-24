@@ -1,7 +1,5 @@
 # Music Player App - React Native
 
-![App Screenshot](screenshot.png)
-
 ## Descrição
 
 Aplicativo de música que procura os arquivos mp3 dentro do seu dispositovo móvel e os lista.
@@ -10,8 +8,6 @@ de cadastro, depois inserir as credenciais cadastradas na tela de login. Após i
 acesso à duas telas, a com todos os arquivos mp3 do sistema, e outra que possui todas as pastas do
 sistema que possuem arquivos mp3, onde o usuário pode acessar para ve os arquivos que são exclusivamente
 daquela pasta.
-
-## Funcionalidade
 
 # Telas:
 
@@ -23,7 +19,7 @@ Play . Tela que após o usuário selecionar uma música permite que ele comece o
 # Prints:
 
 
-## Porque Um Aplicativo de Música?
+## Objetivo/Porque Um Aplicativo de Música?
 
 A idéia de fazer um aplicativo de música veio do fato de a maioria dos aplicativos na Google
 Play para tocar arquivos mp3 terem anúncios excessivos e funcionalidades as quais (pessoalmente) 
