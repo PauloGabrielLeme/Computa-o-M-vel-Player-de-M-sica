@@ -4,6 +4,11 @@
 
 github.com/PauloGabrielLeme/Computa-o-M-vel-Player-de-M-sica
 
+## Feito por
+
+Paulo Gabriel Gonçalves Leme
+R.A: 24.123.075-4
+
 ## Descrição
 
 Aplicativo de música que procura os arquivos mp3 dentro do seu dispositovo móvel e os lista.
